@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Apple-Store/static/css/main.b42c5869.css",
+    "main.js": "/Apple-Store/static/js/main.8aead446.js",
+    "static/media/hightlight-third.mp4": "/Apple-Store/static/media/hightlight-third.2120d480ec84c9338594.mp4",
+    "static/media/hero.mp4": "/Apple-Store/static/media/hero.e2daabd1b537e5fce6d8.mp4",
+    "static/media/explore.mp4": "/Apple-Store/static/media/explore.8b90fd8b29c7a239b815.mp4",
+    "static/media/hightlight-fourth.mp4": "/Apple-Store/static/media/hightlight-fourth.239ff3e7a5e57a47266b.mp4",
+    "static/media/highlight-first.mp4": "/Apple-Store/static/media/highlight-first.626eeef89f749b1801c3.mp4",
+    "static/media/frame.mp4": "/Apple-Store/static/media/frame.64990761a96ebd01b8e4.mp4",
+    "static/media/smallHero.mp4": "/Apple-Store/static/media/smallHero.cfe0ebf7f24479732ec6.mp4",
+    "static/media/hightlight-sec.mp4": "/Apple-Store/static/media/hightlight-sec.f188da42ed6f910a276b.mp4",
+    "static/media/explore2.jpg": "/Apple-Store/static/media/explore2.626110d1c61f9274ba53.jpg",
+    "static/media/explore1.jpg": "/Apple-Store/static/media/explore1.63127250c370a67a8ec4.jpg",
+    "static/media/frame.png": "/Apple-Store/static/media/frame.24b9f7afb8443084bcb5.png",
+    "static/media/chip.jpeg": "/Apple-Store/static/media/chip.90967379602ad6075b81.jpeg",
+    "static/media/bag.svg": "/Apple-Store/static/media/bag.5f78d09b3745edbc9567b0c7d75961db.svg",
+    "static/media/apple.svg": "/Apple-Store/static/media/apple.962f98865db39a0b32fd13cbc0480c73.svg",
+    "static/media/search.svg": "/Apple-Store/static/media/search.17bb12a687a5bb589e10437622feadb6.svg",
+    "index.html": "/Apple-Store/index.html",
+    "main.b42c5869.css.map": "/Apple-Store/static/css/main.b42c5869.css.map",
+    "main.8aead446.js.map": "/Apple-Store/static/js/main.8aead446.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42c5869.css",
+    "static/js/main.8aead446.js"
+  ]
+}
